@@ -1,0 +1,8 @@
+discord
+ollama
+dotenv
+websocket-client
+Pillow
+requests
+beautifulsoup4
+lxml

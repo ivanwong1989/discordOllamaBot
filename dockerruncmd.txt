@@ -1,0 +1,1 @@
+docker run --env=OLLAMA_HOST=http://host.docker.internal:11434 --network=bridge -p 11434:11434 -p 8188:8188 --restart=unless-stopped --runtime=runc -d myollamabotappdreamshaperxl
